@@ -35,10 +35,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="welcome.jade" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="welcome.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/mysql/auth/welcome.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="56" selection-start="229" selection-end="229" vertical-scroll-proportion="0.25301206">
+            <state line="11" column="54" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/mysql/db.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="39" selection-start="218" selection-end="218" vertical-scroll-proportion="0.13800657">
               <folding />
             </state>
           </provider>
@@ -65,7 +74,16 @@
       <file leaf-file-name="express.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/mysql/express.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="45" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
+            <state line="6" column="51" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="passport.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/mysql/passport.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="45" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -102,6 +120,7 @@
         <option value="$PROJECT_DIR$/routes/mysql/auth.js" />
         <option value="$PROJECT_DIR$/app_passport_mysql.js" />
         <option value="$PROJECT_DIR$/views/mysql/auth/welcome.jade" />
+        <option value="$PROJECT_DIR$/config/mysql/db.js" />
       </list>
     </option>
   </component>
@@ -152,6 +171,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Nodejs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Nodejs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Nodejs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysql" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -288,27 +325,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/mysql/passport.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="45" selection-start="354" selection-end="354" vertical-scroll-proportion="0.18400876">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/mysql/db.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/mysql/express.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="45" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/routes/mysql/auth.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="40" selection-start="359" selection-end="359" vertical-scroll-proportion="-6.72">
@@ -339,7 +355,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/mysql/auth/welcome.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="56" selection-start="229" selection-end="229" vertical-scroll-proportion="0.25301206">
+        <state line="11" column="54" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/mysql/passport.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="45" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/mysql/express.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="51" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/mysql/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="39" selection-start="218" selection-end="218" vertical-scroll-proportion="0.13800657">
           <folding />
         </state>
       </provider>
