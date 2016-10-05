@@ -1,0 +1,11 @@
+if (displayName != undefined)
+    h1 Hello, #{displayName}
+    a(href='/auth/logout') Logout
+else
+    h1 Welcome
+    ul
+        li
+            a(href='/auth/login') Login
+        li
+            a(href='/auth/register') Register
+
