@@ -16,8 +16,8 @@ module.exports = function(){
             host: 'localhost',
             port: 3306,
             user: 'root',
-            password: 'tjqjthvmxmdnpdj',
-            database: 'o2'
+            password: 'password',
+            database: 'databasename'
         })
     }));
 
